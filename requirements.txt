@@ -1,0 +1,12 @@
+# Versions testées le 7 novembre 2026 sur macOS Apple Silicon avec Python 3.14.0.
+numpy==2.5.4
+scipy==1.18.1
+librosa==1.0.0
+soundfile==0.14.0
+tqdm==4.70.1
+pretty_midi==0.2.11.post0
+
+# Uniquement pour lancer les tests
+pytest==9.2.0
+
+# basic-pitch est optionnel et incompatible avec Python 3.14 : voir le README.

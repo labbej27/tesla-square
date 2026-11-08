@@ -1,0 +1,3 @@
+# Uniquement pour l'interface graphique et la compilation de l'application.
+PySide6-Essentials==6.12.0
+pyinstaller==6.22.3

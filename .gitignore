@@ -1,0 +1,10 @@
+.venv/
+.venv-bp/
+__pycache__/
+.pytest_cache/
+sortie/
+build/
+dist/
+*.wav
+*.mp3
+.DS_Store
